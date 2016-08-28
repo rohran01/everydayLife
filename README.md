@@ -14,9 +14,11 @@ This application will be a role-playing game.  I plan to use this experience to 
 
 <h2>Resources to Use</h2>
 
-https://www.codecademy.com/learn/learn-rails
-http://stackoverflow.com/questions/55574/learning-ruby-on-rails
-https://www.railstutorial.org/book
-http://railsforzombies.org/
-http://learn-rails.com/learn-ruby-on-rails.html
+<ul>
+  <li>https://www.codecademy.com/learn/learn-rails</li>
+  <li>http://stackoverflow.com/questions/55574/learning-ruby-on-rails</li>
+  <li>https://www.railstutorial.org/book</li>
+  <li>http://railsforzombies.org/</li>
+  <li>http://learn-rails.com/learn-ruby-on-rails.html</li>
+</ul>
 
